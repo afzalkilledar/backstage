@@ -1,5 +1,12 @@
 # @backstage/plugin-adr-common
 
+## 0.2.19-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-common@1.2.10-next.0
+
 ## 0.2.18
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/frontend-test-utils
 
+## 0.1.1-next.3
+
+### Patch Changes
+
+- f7566f9: Updates to reflect the `app/router` extension having been renamed to `app/root`.
+- Updated dependencies
+  - @backstage/frontend-app-api@0.5.0-next.3
+  - @backstage/frontend-plugin-api@0.5.0-next.3
+  - @backstage/test-utils@1.4.7-next.2
+
 ## 0.1.1-next.2
 
 ### Patch Changes

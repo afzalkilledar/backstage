@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-node
 
+## 1.6.1-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-permission-common@0.7.12-next.0
+  - @backstage/plugin-permission-node@0.7.20-next.3
+  - @backstage/backend-plugin-api@0.6.9-next.3
+  - @backstage/plugin-catalog-common@1.0.20-next.0
+
 ## 1.6.1-next.2
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-backend-module-gitlab
 
+## 0.2.12-next.3
+
+### Patch Changes
+
+- 604c9dd: Add Scaffolder custom action that creates GitLab issues called `gitlab:issues:create`
+- Updated dependencies
+  - @backstage/backend-common@0.20.1-next.3
+  - @backstage/plugin-scaffolder-node@0.2.10-next.3
+  - @backstage/config@1.1.1
+
 ## 0.2.12-next.2
 
 ### Patch Changes

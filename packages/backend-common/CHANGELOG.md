@@ -1,5 +1,17 @@
 # @backstage/backend-common
 
+## 0.20.1-next.3
+
+### Patch Changes
+
+- 3b24eae: Adding support for removing file from git index
+- Updated dependencies
+  - @backstage/backend-app-api@0.5.10-next.3
+  - @backstage/backend-plugin-api@0.6.9-next.3
+  - @backstage/config-loader@1.6.1-next.0
+  - @backstage/config@1.1.1
+  - @backstage/integration-aws-node@0.1.8
+
 ## 0.20.1-next.2
 
 ### Patch Changes

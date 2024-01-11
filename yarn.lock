@@ -5670,7 +5670,18 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@backstage/plugin-catalog-common@^1.0.10, @backstage/plugin-catalog-common@^1.0.19, @backstage/plugin-catalog-common@workspace:^, @backstage/plugin-catalog-common@workspace:plugins/catalog-common":
+"@backstage/plugin-catalog-common@npm:^1.0.10, @backstage/plugin-catalog-common@npm:^1.0.19":
+  version: 1.0.19
+  resolution: "@backstage/plugin-catalog-common@npm:1.0.19"
+  dependencies:
+    "@backstage/catalog-model": ^1.4.3
+    "@backstage/plugin-permission-common": ^0.7.11
+    "@backstage/plugin-search-common": ^1.2.9
+  checksum: 692085592f9e4635069bad43deb4ade0ee707c4c1997966c8c90d5a282fc578ecd8674c5d0ee21d8e27ef9595f8019827e9ccab756f62a293c7855fc9a15abee
+  languageName: node
+  linkType: hard
+
+"@backstage/plugin-catalog-common@workspace:^, @backstage/plugin-catalog-common@workspace:plugins/catalog-common":
   version: 0.0.0-use.local
   resolution: "@backstage/plugin-catalog-common@workspace:plugins/catalog-common"
   dependencies:
@@ -7900,7 +7911,21 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@backstage/plugin-permission-common@^0.7.11, @backstage/plugin-permission-common@workspace:^, @backstage/plugin-permission-common@workspace:plugins/permission-common":
+"@backstage/plugin-permission-common@npm:^0.7.11":
+  version: 0.7.11
+  resolution: "@backstage/plugin-permission-common@npm:0.7.11"
+  dependencies:
+    "@backstage/config": ^1.1.1
+    "@backstage/errors": ^1.2.3
+    "@backstage/types": ^1.1.1
+    cross-fetch: ^4.0.0
+    uuid: ^8.0.0
+    zod: ^3.22.4
+  checksum: 79bb7d3d6ceba80701331d4d0cca32640183dc8466e82c04bd5307048a19c1fb044917b1e6047ff171f377b34c2d34662db65591a24ab468bdc19065f13942ce
+  languageName: node
+  linkType: hard
+
+"@backstage/plugin-permission-common@workspace:^, @backstage/plugin-permission-common@workspace:plugins/permission-common":
   version: 0.0.0-use.local
   resolution: "@backstage/plugin-permission-common@workspace:plugins/permission-common"
   dependencies:
@@ -8738,6 +8763,16 @@ __metadata:
     zod: ^3.22.4
   languageName: unknown
   linkType: soft
+
+"@backstage/plugin-search-common@npm:^1.2.9":
+  version: 1.2.9
+  resolution: "@backstage/plugin-search-common@npm:1.2.9"
+  dependencies:
+    "@backstage/plugin-permission-common": ^0.7.11
+    "@backstage/types": ^1.1.1
+  checksum: 5dc4db9870ae0ba816526b5c2531a52af2e2bc5c94adf0636948ed20a9f913937283db6e59a9bdbfa9e62a6da77db9013dcc8ddcfb66132321ad86d3cdf70446
+  languageName: node
+  linkType: hard
 
 "@backstage/plugin-search-common@workspace:^, @backstage/plugin-search-common@workspace:plugins/search-common":
   version: 0.0.0-use.local

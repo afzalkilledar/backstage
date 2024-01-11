@@ -1,5 +1,16 @@
 # @backstage/plugin-events-backend
 
+## 0.2.18-next.3
+
+### Patch Changes
+
+- d5ddc4e: Add documentation on how to install the plugins with the new backend system.
+- Updated dependencies
+  - @backstage/backend-common@0.20.1-next.3
+  - @backstage/backend-plugin-api@0.6.9-next.3
+  - @backstage/plugin-events-node@0.2.18-next.3
+  - @backstage/config@1.1.1
+
 ## 0.2.18-next.2
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-permission-common
 
+## 0.7.12-next.0
+
+### Patch Changes
+
+- b1acd9b: Updated README
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 0.7.11
 
 ### Patch Changes

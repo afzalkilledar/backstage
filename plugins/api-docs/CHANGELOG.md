@@ -1,5 +1,19 @@
 # @backstage/plugin-api-docs
 
+## 0.10.3-next.3
+
+### Patch Changes
+
+- 8a69cc9: Fix custom http resolvers for AsyncAPI widget.
+- 062b8f2: Add permission check to Register Existing API button
+- Updated dependencies
+  - @backstage/plugin-permission-react@0.4.19-next.2
+  - @backstage/plugin-catalog@1.16.1-next.3
+  - @backstage/plugin-catalog-react@1.9.3-next.3
+  - @backstage/plugin-catalog-common@1.0.20-next.0
+  - @backstage/core-components@0.13.10-next.1
+  - @backstage/core-plugin-api@1.8.2-next.0
+
 ## 0.10.3-next.2
 
 ### Patch Changes

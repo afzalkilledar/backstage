@@ -1,5 +1,14 @@
 # @backstage/plugin-events-backend-module-bitbucket-cloud
 
+## 0.1.19-next.3
+
+### Patch Changes
+
+- af76a95: Add default exports for the new backend system and documentation.
+- Updated dependencies
+  - @backstage/backend-plugin-api@0.6.9-next.3
+  - @backstage/plugin-events-node@0.2.18-next.3
+
 ## 0.1.19-next.2
 
 ### Patch Changes

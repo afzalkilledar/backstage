@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.7.1-next.3
+
+### Patch Changes
+
+- 0b9ce2b: Fix for a step with no properties
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.9.3-next.3
+  - @backstage/plugin-scaffolder-common@1.4.5-next.0
+  - @backstage/core-components@0.13.10-next.1
+  - @backstage/core-plugin-api@1.8.2-next.0
+
 ## 1.7.1-next.2
 
 ### Patch Changes
