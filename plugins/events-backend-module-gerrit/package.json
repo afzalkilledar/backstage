@@ -41,8 +41,8 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/plugin-events-node": "workspace:^",
+    "@backstage/backend-plugin-api": "0.5.0",
+    "@backstage/plugin-events-node": "0.2.4",
     "winston": "^3.2.1"
   },
   "devDependencies": {
