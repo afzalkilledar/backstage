@@ -32,7 +32,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.5.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "google-auth-library": "^8.0.0",
     "passport-google-oauth20": "^2.0.0"
