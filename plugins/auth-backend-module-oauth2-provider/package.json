@@ -23,7 +23,7 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.5.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "passport": "^0.7.0",
     "passport-oauth2": "^1.6.1"
