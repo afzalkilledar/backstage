@@ -24,10 +24,10 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/plugin-auth-node": "0.2.1",
     "@types/passport-oauth2": "^1.4.15",
-    "jose": "^4.6.0",
+    "jose": "^4.15.5",
     "passport-oauth2": "^1.6.1"
   },
   "devDependencies": {
