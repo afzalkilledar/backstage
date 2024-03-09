@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.2.1",
     "passport-github2": "^0.1.12"
   },
   "devDependencies": {
