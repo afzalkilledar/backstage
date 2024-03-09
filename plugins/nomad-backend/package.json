@@ -28,8 +28,8 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
+    "@backstage/backend-plugin-api": "0.5.0",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@types/express": "*",
