@@ -24,9 +24,9 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.2.1",
     "express": "^4.18.2",
-    "jose": "^4.6.0",
+    "jose": "^4.15.5",
     "node-fetch": "^2.6.7",
     "passport": "^0.7.0",
     "passport-microsoft": "^1.0.0"
