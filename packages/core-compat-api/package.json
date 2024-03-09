@@ -23,9 +23,9 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/core-app-api": "workspace:^",
+    "@backstage/core-app-api": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@backstage/version-bridge": "workspace:^",
     "@types/react": "^16.13.1 || ^17.0.0"
   },
