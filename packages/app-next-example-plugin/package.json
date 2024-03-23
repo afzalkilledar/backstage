@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@backstage/core-components": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@material-ui/icons": "^4.9.1"
   },
   "peerDependencies": {
