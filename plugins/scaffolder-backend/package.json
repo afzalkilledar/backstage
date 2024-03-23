@@ -55,7 +55,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "workspace:^",
+    "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "0.1.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
