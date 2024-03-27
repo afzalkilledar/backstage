@@ -34,7 +34,7 @@
     "@backstage/frontend-app-api": "workspace:^",
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/test-utils": "workspace:^",
-    "@backstage/types": "workspace:^"
+    "@backstage/types": "0.1.1"
   },
   "peerDependencies": {
     "@testing-library/react": "^12.1.3 || ^13.0.0 || ^14.0.0",
