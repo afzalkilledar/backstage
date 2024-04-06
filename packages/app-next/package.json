@@ -41,7 +41,7 @@
     "@backstage/plugin-gcp-projects": "workspace:^",
     "@backstage/plugin-github-actions": "workspace:^",
     "@backstage/plugin-gocd": "workspace:^",
-    "@backstage/plugin-graphiql": "workspace:^",
+    "@backstage/plugin-graphiql": "0.3.0",
     "@backstage/plugin-home": "workspace:^",
     "@backstage/plugin-jenkins": "workspace:^",
     "@backstage/plugin-kafka": "workspace:^",
