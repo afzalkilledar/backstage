@@ -15,7 +15,7 @@
   "dependencies": {
     "@backstage/app-defaults": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/cli": "workspace:^",
+    "@backstage/cli": "0.20.0",
     "@backstage/config": "workspace:^",
     "@backstage/core-app-api": "workspace:^",
     "@backstage/core-components": "workspace:^",
