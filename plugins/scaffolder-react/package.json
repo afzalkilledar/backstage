@@ -52,7 +52,7 @@
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-scaffolder-common": "workspace:^",
-    "@backstage/theme": "workspace:^",
+    "@backstage/theme": "0.1.1",
     "@backstage/types": "workspace:^",
     "@backstage/version-bridge": "workspace:^",
     "@material-ui/core": "^4.12.2",
