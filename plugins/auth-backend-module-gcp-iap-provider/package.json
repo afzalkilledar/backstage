@@ -32,7 +32,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/types": "workspace:^",
