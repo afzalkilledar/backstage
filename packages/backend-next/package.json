@@ -27,7 +27,7 @@
   "dependencies": {
     "@backstage/backend-defaults": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-tasks": "0.5.22",
     "@backstage/plugin-adr-backend": "workspace:^",
     "@backstage/plugin-app-backend": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
@@ -47,7 +47,7 @@
     "@backstage/plugin-nomad-backend": "workspace:^",
     "@backstage/plugin-permission-backend": "workspace:^",
     "@backstage/plugin-permission-backend-module-allow-all-policy": "workspace:^",
-    "@backstage/plugin-permission-common": "workspace:^",
+    "@backstage/plugin-permission-common": "0.1.0",
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/plugin-playlist-backend": "workspace:^",
     "@backstage/plugin-proxy-backend": "workspace:^",
@@ -59,7 +59,7 @@
     "@backstage/plugin-search-backend-node": "workspace:^",
     "@backstage/plugin-sonarqube-backend": "workspace:^",
     "@backstage/plugin-techdocs-backend": "workspace:^",
-    "@backstage/plugin-todo-backend": "workspace:^"
+    "@backstage/plugin-todo-backend": "0.1.0"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
