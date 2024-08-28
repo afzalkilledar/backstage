@@ -28,9 +28,9 @@
     "dist"
   ],
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-kubernetes-common": "workspace:^",
+    "@backstage/backend-plugin-api": "0.6.19",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/plugin-kubernetes-common": "0.1.0",
     "@backstage/types": "workspace:^"
   }
 }
