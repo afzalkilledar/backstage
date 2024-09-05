@@ -67,7 +67,7 @@
     "js-base64": "^3.6.0",
     "lodash": "^4.17.21",
     "react-hook-form": "^7.12.2",
-    "react-use": "^17.2.4",
+    "react-use": "^17.5.1",
     "yaml": "^2.0.0"
   },
   "peerDependencies": {
