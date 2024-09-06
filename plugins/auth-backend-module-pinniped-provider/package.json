@@ -27,7 +27,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
     "luxon": "^3.4.3",
-    "openid-client": "^5.4.3"
+    "openid-client": "^5.6.5"
   },
   "devDependencies": {
     "@backstage/backend-defaults": "workspace:^",
