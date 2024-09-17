@@ -28,7 +28,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -37,7 +37,7 @@
     "@backstage/types": "workspace:^",
     "@types/express": "*",
     "@types/passport": "^1.0.3",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "jose": "^4.6.0",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
