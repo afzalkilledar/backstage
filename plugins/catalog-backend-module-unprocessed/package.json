@@ -36,7 +36,7 @@
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.5.2",
     "express-promise-router": "^4.1.1",
     "knex": "^3.0.0"
   }
