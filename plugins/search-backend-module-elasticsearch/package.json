@@ -42,7 +42,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/integration-aws-node": "workspace:^",
@@ -57,7 +57,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/cli": "workspace:^",
     "@elastic/elasticsearch-mock": "^1.0.0",
     "@short.io/opensearch-mock": "^0.3.1"
