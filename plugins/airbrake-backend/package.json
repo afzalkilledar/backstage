@@ -28,11 +28,11 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-promise-router": "^4.1.0",
     "http-proxy-middleware": "^2.0.0",
     "winston": "^3.2.1",
