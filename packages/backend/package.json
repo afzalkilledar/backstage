@@ -66,7 +66,7 @@
     "@backstage/plugin-scaffolder-backend-module-rails": "workspace:^",
     "@backstage/plugin-search-backend": "workspace:^",
     "@backstage/plugin-search-backend-module-catalog": "workspace:^",
-    "@backstage/plugin-search-backend-module-elasticsearch": "workspace:^",
+    "@backstage/plugin-search-backend-module-elasticsearch": "0.0.1",
     "@backstage/plugin-search-backend-module-explore": "workspace:^",
     "@backstage/plugin-search-backend-module-pg": "workspace:^",
     "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
