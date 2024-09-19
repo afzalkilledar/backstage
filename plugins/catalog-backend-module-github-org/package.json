@@ -27,7 +27,7 @@
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-backend-module-github": "workspace:^",
+    "@backstage/plugin-catalog-backend-module-github": "0.7.3",
     "@backstage/plugin-catalog-node": "workspace:^"
   },
   "devDependencies": {
