@@ -32,9 +32,9 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.6.19",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.1.0",
     "@backstage/types": "workspace:^",
     "google-auth-library": "^8.0.0"
   },
