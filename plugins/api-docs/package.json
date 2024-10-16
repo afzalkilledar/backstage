@@ -33,9 +33,9 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@asyncapi/react-component": "1.2.6",
+    "@asyncapi/react-component": "2.1.0",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
@@ -51,7 +51,7 @@
     "graphql-config": "^5.0.2",
     "graphql-ws": "^5.4.1",
     "isomorphic-form-data": "^2.0.0",
-    "swagger-ui-react": "^5.0.0"
+    "swagger-ui-react": "^5.17.12"
   },
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0 || ^18.0.0",
