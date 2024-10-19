@@ -32,12 +32,12 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/errors": "0.1.1",
     "@backstage/plugin-auth-backend-module-atlassian-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-gcp-iap-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-github-provider": "workspace:^",
@@ -46,7 +46,7 @@
     "@backstage/plugin-auth-backend-module-oauth2-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-oauth2-proxy-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-okta-provider": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.5.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@google-cloud/firestore": "^7.0.0",
     "@types/express": "^4.17.6",
