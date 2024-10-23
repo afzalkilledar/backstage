@@ -49,7 +49,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
-    "@backstage/plugin-linguist-common": "workspace:^",
+    "@backstage/plugin-linguist-common": "0.1.0",
     "@material-ui/core": "^4.9.13",
     "@material-ui/lab": "4.0.0-alpha.61",
     "@types/react": "^16.13.1 || ^17.0.0",
