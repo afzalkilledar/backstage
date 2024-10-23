@@ -42,13 +42,13 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-app-api": "0.7.6",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.6.19",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/plugin-auth-node": "0.5.0",
+    "@backstage/types": "0.1.1",
     "better-sqlite3": "^9.0.0",
     "express": "^4.17.1",
     "fs-extra": "^10.0.1",
