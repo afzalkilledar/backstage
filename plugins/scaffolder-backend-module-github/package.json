@@ -27,7 +27,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "@octokit/webhooks": "^10.0.0",
     "libsodium-wrappers": "^0.7.11",
     "octokit": "^3.0.0",
