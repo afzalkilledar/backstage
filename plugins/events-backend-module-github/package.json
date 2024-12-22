@@ -41,7 +41,7 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "1.1.0",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-events-node": "workspace:^",
     "@octokit/webhooks-methods": "^3.0.0",
