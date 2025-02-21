@@ -37,7 +37,7 @@
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/errors": "0.1.1",
     "@backstage/plugin-vault-node": "workspace:^",
     "@types/express": "*",
     "compression": "^1.7.4",
