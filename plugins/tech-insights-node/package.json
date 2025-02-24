@@ -35,7 +35,7 @@
     "@backstage/backend-common": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "@types/luxon": "^3.0.0",
     "luxon": "^3.0.0",
     "winston": "^3.2.1"
