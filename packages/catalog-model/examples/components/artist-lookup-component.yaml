@@ -8,7 +8,7 @@ metadata:
     - data
   links:
     - url: https://example.com/user
-      title: Examples Users
+      title: Examples Users Test
       icon: user
     - url: https://example.com/group
       title: Example Group
