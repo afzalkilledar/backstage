@@ -46,9 +46,9 @@
   },
   "dependencies": {
     "@azure/identity": "^4.0.0",
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
@@ -63,7 +63,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-test-utils": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@types/lodash": "^4.14.151",
