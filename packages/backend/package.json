@@ -26,7 +26,7 @@
     "build-image": "docker build ../.. -f Dockerfile --tag example-backend"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -71,11 +71,11 @@
     "@backstage/plugin-search-backend-module-pg": "workspace:^",
     "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
     "@backstage/plugin-search-backend-node": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^",
+    "@backstage/plugin-search-common": "0.3.1",
     "@backstage/plugin-tech-insights-backend": "workspace:^",
     "@backstage/plugin-tech-insights-backend-module-jsonfc": "workspace:^",
     "@backstage/plugin-tech-insights-node": "workspace:^",
-    "@backstage/plugin-techdocs-backend": "workspace:^",
+    "@backstage/plugin-techdocs-backend": "0.1.1",
     "@backstage/plugin-todo-backend": "workspace:^",
     "@gitbeaker/node": "^35.1.0",
     "@octokit/rest": "^19.0.3",
