@@ -33,9 +33,9 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@asyncapi/react-component": "1.2.6",
+    "@asyncapi/react-component": "2.1.0",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
