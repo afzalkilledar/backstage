@@ -34,8 +34,8 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/core-components": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/core-components": "0.1.0",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@material-ui/icons": "^4.9.1"
   },
   "peerDependencies": {
