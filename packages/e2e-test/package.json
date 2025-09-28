@@ -28,7 +28,7 @@
   "bin": "bin/e2e-test",
   "dependencies": {
     "@backstage/cli-common": "workspace:^",
-    "@backstage/create-app": "workspace:^",
+    "@backstage/create-app": "0.1.1",
     "@backstage/errors": "workspace:^",
     "chalk": "^4.0.0",
     "commander": "^9.1.0",
