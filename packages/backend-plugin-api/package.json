@@ -45,7 +45,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
