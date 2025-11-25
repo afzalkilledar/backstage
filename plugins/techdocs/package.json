@@ -56,7 +56,7 @@
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/integration-react": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/plugin-catalog-react": "0.0.1",
     "@backstage/plugin-search-common": "workspace:^",
     "@backstage/plugin-search-react": "workspace:^",
     "@backstage/plugin-techdocs-react": "workspace:^",
