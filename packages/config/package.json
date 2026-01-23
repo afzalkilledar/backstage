@@ -34,8 +34,8 @@
   },
   "dependencies": {
     "@backstage/errors": "workspace:^",
-    "@backstage/types": "workspace:^",
-    "lodash": "^4.17.21"
+    "@backstage/types": "0.1.1",
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
