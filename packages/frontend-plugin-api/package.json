@@ -39,13 +39,13 @@
     "react-router-dom": "6.0.0-beta.0 || ^6.3.0"
   },
   "dependencies": {
-    "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/core-components": "0.8.6",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/types": "0.1.1",
     "@backstage/version-bridge": "workspace:^",
     "@material-ui/core": "^4.12.4",
     "@types/react": "^16.13.1 || ^17.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "zod": "^3.22.4",
     "zod-to-json-schema": "^3.21.4"
   }
