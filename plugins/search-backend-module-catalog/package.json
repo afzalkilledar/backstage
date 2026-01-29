@@ -43,17 +43,17 @@
   },
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
+    "@backstage/backend-plugin-api": "1.6.1",
+    "@backstage/backend-tasks": "0.6.1",
+    "@backstage/catalog-client": "0.2.0",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.13.0",
     "@backstage/plugin-permission-common": "workspace:^",
-    "@backstage/plugin-search-backend-node": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^"
+    "@backstage/plugin-search-backend-node": "0.1.2",
+    "@backstage/plugin-search-common": "0.3.1"
   },
   "devDependencies": {
     "@backstage/backend-common": "workspace:^",
